@@ -1,0 +1,26 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 300;
+}
+.row div{
+    padding-bottom: 20px;
+}
+nav bar {
+width: 100%;
+height: 200px ;
+object-fit: contain;
+}
+
+.container-fluid h3{
+    text-align: center;
+    color: white;
+}
+.d-block {
+    /* position: absolute; */
+    /* top: 0; */
+    width: 200px;
+    height: 200px ;
+    object-fit:cover;
+    object-position: center;
+    
+}
